@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = 'http://w3bapps.online/PROJECTS/evolve5/';
-$config['base_url'] = 'http://stag.evolve/';
+$config['base_url'] = 'http://evolvemindbodysoul.com/site/';
 
 /*
 |--------------------------------------------------------------------------
