@@ -25,7 +25,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = 'http://w3bapps.online/PROJECTS/evolve5/';
 // $config['base_url'] = 'http://evolvemindbodysoul.com/site/';
-$config['base_url'] = 'https://' . $_SERVER['HTTP_HOST'] . '/newsite/';
+
+$config['base_url'] = 'http://' . $_SERVER['HTTP_HOST'] . '/newsite/';
 
 /*
 |--------------------------------------------------------------------------
