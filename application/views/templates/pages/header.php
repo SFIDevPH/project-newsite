@@ -97,7 +97,7 @@
         <nav class="navbar navbar-expand-sm">
           <div class="container nopads">
             <div class="col-sm-2 d-flex flex-row">
-              <a class="navbar-brand" href="http://w3bapps.online/PROJECTS/evolve5/home"><img src="<?php echo base_url('assets'); ?>/img/logo.png" class="img-fluid"></a>
+              <a class="navbar-brand" href="<?php echo site_url('home'); ?>"><img src="<?php echo base_url('assets'); ?>/img/logo.png" class="img-fluid"></a>
             </div>
             <div class="col-sm-10 d-flex flex-column-reverse">
               <div class="collapse navbar-collapse ml-auto" id="navbarCollapse">
